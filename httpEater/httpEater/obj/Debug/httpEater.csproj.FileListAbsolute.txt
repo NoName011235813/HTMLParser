@@ -1,6 +1,0 @@
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\bin\Debug\httpEater.exe.config
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\bin\Debug\httpEater.exe
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\bin\Debug\httpEater.pdb
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\obj\Debug\httpEater.csprojResolveAssemblyReference.cache
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\obj\Debug\httpEater.exe
-E:\Программирование\C# Projects\httpClient\1 httpEater Refactoring\httpEater\httpEater\obj\Debug\httpEater.pdb
